@@ -1,7 +1,7 @@
 # GroceryApp sprint2 
 
 ## Docentversie  
-In deze versie zijn de wijzigingen doorgevoerd en is de code compleet.  
+In deze versie zijn de wijzigingen doorgevoerd en is de code compleet.    
 
 ## Studentversie:  
 ### UC04 Kiezen kleur boodschappenlijst  
